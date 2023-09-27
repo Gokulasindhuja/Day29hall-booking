@@ -1,0 +1,56 @@
+[
+  {
+    "b_id": 301,
+    "name": "Eva",
+    "date": "28-01-2022",
+    "start": "12:00",
+    "end": "20:00",
+    "status": "booked",
+    "id": 9
+  },
+  {
+    "b_id": 302,
+    "name": "Frank",
+    "date": "29-01-2022",
+    "start": "12:30",
+    "end": "20:30",
+    "status": "booked",
+    "id": 10
+  },
+  {
+    "b_id": 303,
+    "name": "Grace",
+    "date": "30-01-2022",
+    "start": "13:00",
+    "end": "21:00",
+    "status": "booked",
+    "id": 11
+  },
+  {
+    "b_id": 304,
+    "name": "Henry",
+    "date": "31-01-2022",
+    "start": "13:30",
+    "end": "21:30",
+    "status": "booked",
+    "id": 12
+  },
+  {
+    "b_id": 305,
+    "name": "Ivy",
+    "date": "01-02-2022",
+    "start": "14:00",
+    "end": "22:00",
+    "status": "booked",
+    "id": 13
+  },
+  {
+    "b_id": 306,
+    "name": "Jack",
+    "date": "02-02-2022",
+    "start": "14:30",
+    "end": "22:30",
+    "status": "booked",
+    "id": 14
+  }
+]
