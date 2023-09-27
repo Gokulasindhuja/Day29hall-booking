@@ -37,11 +37,12 @@ addBooking:
 This POST method will add new Booking and it will not book the room if its already booked
 
 {
-  "name": "vivek",
-  "date": "24-01-2022",
-  "start": "08:00",
-  "end": "16:00",
-  "id": 4
+  "name": "Ivy",
+  "date": "01-02-2022",
+  "start": "14:00",
+  "end": "22:00",
+  "status": "booked",
+  "id": 13
 }
 
 Home:
